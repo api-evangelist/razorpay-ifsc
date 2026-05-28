@@ -1,0 +1,32 @@
+aid: razorpay-ifsc
+name: Razorpay IFSC
+description: "Indian Financial Systems Code (Bank Branch Codes)"
+url: https://razorpay.com/docs/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Finance"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Finance
+  - Public APIs
+apis:
+  - name: Razorpay IFSC
+    description: "Indian Financial Systems Code (Bank Branch Codes)"
+    humanURL: https://razorpay.com/docs/
+    baseURL: https://razorpay.com/docs/
+    tags:
+      - Finance
+    properties:
+      - type: Documentation
+        url: https://razorpay.com/docs/
+common:
+  - type: Website
+    url: https://razorpay.com/docs/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
