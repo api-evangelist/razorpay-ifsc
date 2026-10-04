@@ -39,7 +39,6 @@ apis:
   - name: Razorpay IFSC
     description: "Indian Financial Systems Code (Bank Branch Codes)"
     humanURL: https://razorpay.com/docs/
-    baseURL: https://razorpay.com/docs/
     tags:
       - Finance
     properties:
